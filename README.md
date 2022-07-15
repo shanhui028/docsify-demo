@@ -1,3 +1,3 @@
-# Headline
+# 爱因斯坦棋项目
 
-> An awesome project.
+> 这是关于本项目的开发文档
